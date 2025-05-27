@@ -13,17 +13,20 @@ Here are some ideas to get you started:
 <h1 align="center">👋 Hi, I'm Skamina (Ibrahim Aliyu S. Kamina)</h1>
 <p align="center">
   <b>Cybersecurity Analyst</b> • <b>APIsec University Ambassador</b> <br>
-  <b>Blockchain Security Researcher</b> • <b>Blockchain Forensics Enthusiast</b>
+  <b>Web3 Security Researcher</b> • <b>Blockchain Forensics Analyst</b> • AI and Quantum computing Enthusiast</b> • Advocate For Tech-Driven Sustainability
 </p>
 
 ---
 
 ### 🛡️ About Me
 
-I'm a multifaceted cybersecurity professional with a sharp focus on securing APIs, web applications, and blockchain ecosystems.  
-Passionate about building and auditing secure systems, I contribute to decentralized privacy and explore the synergy between AI and security.
+Welcome to my GitHub! I'm a multifaceted cybersecurity professional with a sharp focus on securing APIs, web applications, and blockchain ecosystems. I'm passionate about building and auditing secure systems, contributing to decentralized privacy, and exploring the synergy between AI and security.
 
-- 🔍 API & Web Security | Smart Contract Auditing | Blockchain Forensics
+
+
+
+
+- 🔍 API & Web apps Security | Web3 Security | Blockchain Forensics
 - 🤝 APIsec University Ambassador | Advocate for green blockchain innovation
 - 🧠 Curious about AI’s role in decoding cosmic data & the future of decentralized tech
 
