@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...<!-- Profile README for Skamina -->
 
-<h1 align="center">👋 Hi, I'm Skamina (Ibrahim Aliyu S. Kamina)</h1>
+<h1 align="center">👋 Hi, I'm Ibrahim Aliyu S. Kamina </h1>
 <p align="center">
   <b>Cybersecurity Analyst</b> • <b>APIsec University Ambassador</b> <br>
   <b>Web3 Security Researcher</b> • <b>Blockchain Forensics Analyst</b> • AI and Quantum computing Enthusiast</b> • Advocate For Tech-Driven Sustainability
