@@ -49,7 +49,7 @@ Welcome to my GitHub! I'm a multifaceted cybersecurity professional with a sharp
 - [**NodeWhisper**](https://github.com/Skamina/Nodewhisper)  
   <sub>AI-powered blockchain forensic suite for tracing, threat heatmaps, and collaborative investigations.</sub>
 
-- **GreenTrust Nexus**  
+- - [**GreenTrust Nexus**]https://github.com/Skamina/GreenTech-Nexus 
   <sub>A climate-positive Web3 ecosystem merging environmental action and tokenized trust.</sub>
 
 *Check out my pinned projects below for architecture diagrams, visuals, and more!*
