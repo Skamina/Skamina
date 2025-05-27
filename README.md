@@ -34,13 +34,12 @@ Welcome to my GitHub! I'm a multifaceted cybersecurity professional with a sharp
 
 ### 🚀 Tech Stack & Skills
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />  <img src="https://img.shields.io/badge/Hardhat-FFC107?style=flat-square&logo=ethereum" />
+<img src="https://img.shields.io/badge/Foundry-00B4AB?style=flat-square&logo=foundry" />               <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js" />
+
+<img src="https://img.shields.io/badge/AI%2FML-282C34?style=flat-square&logo=ai" />                    <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity" />
 <img src="https://img.shields.io/badge/Vyper-2980b9?style=flat-square&logo=vyper" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js" />
-<img src="https://img.shields.io/badge/Hardhat-FFC107?style=flat-square&logo=ethereum" />
-<img src="https://img.shields.io/badge/Foundry-00B4AB?style=flat-square&logo=foundry" />
-<img src="https://img.shields.io/badge/AI%2FML-282C34?style=flat-square&logo=ai" />
+
 
 ---
 
@@ -49,7 +48,7 @@ Welcome to my GitHub! I'm a multifaceted cybersecurity professional with a sharp
 - [**NodeWhisper**](https://github.com/Skamina/Nodewhisper)  
   <sub>AI-powered blockchain forensic suite for tracing, threat heatmaps, and collaborative investigations.</sub>
 
-- - [**GreenTrust Nexus**]https://github.com/Skamina/GreenTech-Nexus 
+- [**GreenTrust Nexus**](https://github.com/Skamina/GreenTech-Nexus) 
   <sub>A climate-positive Web3 ecosystem merging environmental action and tokenized trust.</sub>
 
 *Check out my pinned projects below for architecture diagrams, visuals, and more!*
