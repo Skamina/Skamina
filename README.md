@@ -61,6 +61,10 @@ Feel free to reach out via [wa.me/2349138818319](https://wa.me/2349138818319)
 - [**GreenTrust Nexus**](https://github.com/Skamina/GreenTech-Nexus) 
   <sub>A climate-positive Web3 ecosystem merging environmental action and tokenized trust.</sub>
 
+- [Non-dev Blockchain Careers](https://github.com/Skamina/Non-dev-blockchain--careers)  
+  A curated resource for non-developer opportunities in the blockchain industry.  
+  **Author:** Ibrahim Aliyu S Kamina
+
 *Check out my pinned projects below for architecture diagrams, visuals, and more!*
 
 ---
