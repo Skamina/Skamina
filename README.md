@@ -31,6 +31,18 @@ Welcome to my GitHub! I'm a multifaceted cybersecurity professional with a sharp
 - 🧠 Curious about AI’s role in decoding cosmic data & the future of decentralized tech
 
 ---
+### 💼 Consultancy & Mentoring
+
+I offer consultancy services and mentoring in:
+- Cybersecurity, blockchain security, and API security
+- Digital skills development and career choice in tech
+- Digital transformation strategies for startups and companies
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ibrahim-aliyu-s-kamina-51949220a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [Twitter/X](https://x.com/IbrahimSkamina?t=bbx3R-mwrEGGkx1lur2H3A&s=09)!
+
+---
+
+
 
 ### 🚀 Tech Stack & Skills
 
