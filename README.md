@@ -1,5 +1,4 @@
-## Hi there 👋
-
+##
 <!--
 **Skamina/Skamina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,8 +37,7 @@ I offer consultancy services and mentoring in:
 - Digital skills development and career choice in tech
 - Digital transformation strategies for startups and companies
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ibrahim-aliyu-s-kamina-51949220a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [Twitter/X](https://x.com/IbrahimSkamina?t=bbx3R-mwrEGGkx1lur2H3A&s=09)!
-
+Feel free to reach out via [wa.me/2349138818319](https://wa.me/2349138818319)
 ---
 
 
